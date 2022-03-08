@@ -7,7 +7,7 @@ Musical Website
   <li>CSS</li>
   <li>Javascript</li>
  </ul>
- <p><h4><b>Website Link</b></h4><br>
+ <p><h4><b>Website Link</b></h4>
  https://harshal-bhagat-1.github.io/PlayBeat.github.io/ </p><br>
  
 ![1](https://user-images.githubusercontent.com/80598599/157213198-01431352-7dc6-4fb6-ae34-03bfd7116160.png)
